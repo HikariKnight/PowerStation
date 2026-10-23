@@ -123,6 +123,13 @@ min_tdp = 5.0
 max_tdp = 28.0
 max_boost = 5.0
 
+# Acer
+[[models]]
+model_name = "Predator PA08-I51"
+min_tdp = 8.0
+max_tdp = 35.0
+max_boost = 17.0
+
 # OneXPlayer
 [[models]]
 model_name = "ONEXPLAYER 3"
